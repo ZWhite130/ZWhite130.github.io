@@ -24,9 +24,10 @@ a:hover {
 ul.main-menu {
     list-style-type: none;
     margin: 0;
-    padding: 0px 10px 0px 10px;
+    padding: 0;
 }
 
 ul.main-menu>li {
+    padding: 0px 10px 0px 10px;
     display: inline;
 }

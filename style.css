@@ -8,8 +8,17 @@ h1 {
     color:whitesmoke;
 }
 
-a {
+a:link {
+    color:blue;
     text-decoration: none;
+}
+a:visited {
+    color:blue;
+    text-decoration: none;
+}
+a:hover {
+    color:lightblue;
+    text-decoration: underline;
 }
 
 ul.main-menu {

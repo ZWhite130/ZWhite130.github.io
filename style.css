@@ -20,6 +20,9 @@ a:hover {
     color:lightblue;
     text-decoration: underline;
 }
+#home{
+    text-decoration: none;
+}
 
 ul.main-menu {
     list-style-type: none;
@@ -30,4 +33,7 @@ ul.main-menu {
 ul.main-menu>li {
     padding: 0px 10px 0px 10px;
     display: inline;
+}
+#firstlist{
+    padding: 0px;
 }

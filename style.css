@@ -5,7 +5,11 @@ body {
 }
 
 h1 {
-    color:lightgray;
+    color:whitesmoke;
+}
+
+a {
+    text-decoration: none;
 }
 
 ul.main-menu {

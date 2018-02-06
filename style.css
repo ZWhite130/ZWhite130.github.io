@@ -70,9 +70,8 @@ a:hover {
     float: left;
     color: #82D99D;
     text-align: center;
-    padding: 14px 16px;
+    padding: .8% 2%;
     text-decoration: none;
-    font-size: 17px;
     border-radius:25px;
     font-size: 125%;
 }
@@ -84,5 +83,33 @@ a:hover {
 
 .main-menu > a.active {
     background-color: #FFCD10;
+    color:black;
+}
+
+.secondary-menu {
+    background-color: black;
+    overflow: hidden;
+    border-radius: 25px;
+    margin-bottom: 5%;
+    margin-top: -4.5%;
+}
+
+.secondary-menu>a {
+    float: left;
+    color: #FFCD10;
+    text-align: center;
+    padding: .4% 1.5%;
+    text-decoration: none;
+    border-radius:25px;
+    font-size: 115%;
+}
+
+.secondary-menu > a:hover {
+    background-color: rgba(130, 217, 158, 0.795);
+    color: black;
+}
+
+.secondary-menu > a.active {
+    background-color: #82D99D;
     color:black;
 }

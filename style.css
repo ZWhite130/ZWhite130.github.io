@@ -20,6 +20,10 @@ h1:hover {
 }
 
 h1.active {
+    color: #FFCD10;
+}
+
+h1.active:hover {
     color: #82D99D;
 }
 
@@ -71,12 +75,11 @@ a:hover {
     font-size: 17px;
     border-radius:25px;
     font-size: 125%;
-    font-
 }
 
 .main-menu > a:hover {
-    background-color: #ddd;
-    color:#FFFFFF;
+    background-color: rgba(255, 203, 16, 0.795);
+    color: black;
 }
 
 .main-menu > a.active {

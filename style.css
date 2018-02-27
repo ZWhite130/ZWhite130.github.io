@@ -141,4 +141,5 @@ th {
 
 td {
     font-family: "Titillium Web", sans-serif;
+    word-break:break-all;
 }

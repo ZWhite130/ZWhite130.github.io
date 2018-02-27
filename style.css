@@ -124,6 +124,10 @@ table, th, td {
     text-align: center; 
 }
 
+table {
+    table-layout:fixed;
+}
+
 tr:hover {
     background-color: black;
     color:#82D99D;
